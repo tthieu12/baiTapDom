@@ -1,0 +1,22 @@
+/* ALL */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body, html{
+    padding: 70px 0;
+}
+.message .card{
+    background-color: #D1E7DD;
+}
+.card .input-group input.form-control, .btn, .message .card{
+    border-radius: 0.5rem;
+}
+.btn{
+    padding: 0.5rem 2rem;
+}
+/* ITEM */
+.input-group {
+    gap: 20px;
+}
